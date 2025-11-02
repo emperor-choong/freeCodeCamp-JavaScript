@@ -1,4 +1,5 @@
 # Acronym Builder
+## [8 September 2025]
 
 Given a string containing one or more words, return an acronym of the words using the following constraints:
 - The acronym should consist of the first letter of each word capitalized, unless otherwise noted.

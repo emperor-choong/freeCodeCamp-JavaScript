@@ -1,4 +1,5 @@
 # Unique Characters
+## [9 September 2025]
 
 Given a string, determine if all the characters in the string are unique.
 - Uppercase and lowercase letters should be considered different characters.
