@@ -21,7 +21,7 @@ For example, given `500`, `"MB"`, `100`, and `"GB"` as arguments, determine how 
 
 **Tests**
 1. `numberOfVideos(500, "MB", 100, "GB")` should return `200`.
-2. `numberOfVideos(2000, "B", 1, "TB")` should return `"Invalid video unit"`.
+2. `numberOfVideos(1, "TB", 10, "TB")` should return `"Invalid video unit"`.
 3. `numberOfVideos(2000, "MB", 100000, "MB")` should return `"Invalid drive unit"`.
 4. `numberOfVideos(500000, "KB", 2, "TB")` should return `4000`.
 5. `numberOfVideos(1.5, "GB", 2.2, "TB")` should return `1466`.
