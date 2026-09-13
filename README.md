@@ -3,3 +3,4 @@
 
 problem_204.md : Not completed. Something wrong with the question
 problem_207.md : Copy & paste from ChatGPT
+problem_287.md : Bug
